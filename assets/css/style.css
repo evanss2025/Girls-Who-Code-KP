@@ -565,6 +565,27 @@ body {
   font-size: 40px;
 }
 
+.sponsor-card .titleBronze {
+  text-align: center;
+  font-size: 30px;
+  margin-block-end: 15px;
+  color: #a15636;
+}
+
+.sponsor-card .titleSilver {
+  text-align: center;
+  font-size: 30px;
+  margin-block-end: 15px;
+  color: #a6a6a6;
+}
+
+.sponsor-card .titleGold {
+  text-align: center;
+  font-size: 30px;
+  margin-block-end: 15px;
+  color: #ffba42;
+}
+
 .service-card2 .text {
   text-align: center;
   margin-block-end: 20px;
